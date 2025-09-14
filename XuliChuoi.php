@@ -16,7 +16,7 @@ ucfirst(string) viết hoa chữ cái đầu tiên của chuỗi
 ucwords(string) viết hoa chữ cái đầu tiên của mỗi từ trong chuỗi
 trim(string) loại bỏ khoảng trắng thừa ở đầu và cuối chuỗi
 ltrim(string) loại bỏ khoảng trắng thừa ở đầu chuỗi
-rtrim(string) loại bỏ khoảng trắng thừa ở cuối chuỗi 
+rtrim(string) loại bỏ khoảng trắng thừa ở cuối chuỗi
 explode(delimiter, string) tách chuỗi thành mảng
 implode(delimiter, array) nối mảng thành chuỗi
 
